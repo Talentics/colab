@@ -10,7 +10,7 @@
 <body>
 <header>
 		<ul id="menu">
-			<li class="item"><a href="../admin">Inicio</a></li>
+			<li class="item"><a href="inicio.html">Inicio</a></li>
 			<li class="item"><a href="../alumnos">Alumnos</a></li>
 			<li class="item"><a href="cursos.php">Cursos</a></li>
 			<li class="item"><a href="usuarios.php">Usuarios</a></li>
