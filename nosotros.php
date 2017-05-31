@@ -20,10 +20,7 @@
 
 		</ul>
 </header>
-
-<img src="../img/bienvenido.png" id="welcome">
-	
-</img>
+<h1> Hola esta es la ventana de nosotros </h1>
 
 </body>
 </html>
