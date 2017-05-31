@@ -12,7 +12,7 @@
 		<ul id="menu">
 			<li class="item"><a href="../admin">Inicio</a></li>
 			<li class="item"><a href="../alumnos">Alumnos</a></li>
-			<li class="item"><a href="../cursos?r_clave=">Cursos</a></li>
+			<li class="item"><a href="../colab/cursos.php">Cursos</a></li>
 			<li class="item"><a href="../usuarios">Usuarios</a></li>
 			<li class="item"><a href="#Nosotros">Nosotros</a></li>
 			<li class="item"><a href="#Ayuda">Ayuda</a></li>
