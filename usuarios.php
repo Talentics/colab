@@ -20,10 +20,12 @@
 
 		</ul>
 </header>
-
-<img src="../img/bienvenido.png" id="welcome">
-	
-</img>
-
+	<div class="containerUsuarios">
+		<h1>Usuarios</h1>
+		<p>Bienvenido a la página de Usuarios</p>
+		<br><br><br><br><br><br><br><br>
+		<br><br><br><br><br><br><br><br>
+		<p style="text-align:right;"><b>Powered by Luis Arturo Pérez Díaz</b></p>
+	</div>
 </body>
 </html>
