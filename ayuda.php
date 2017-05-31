@@ -11,12 +11,11 @@
 		<ul id="menu">
 			<li class="item"><a href="../admin">Inicio</a></li>
 			<li class="item"><a href="../alumnos">Alumnos</a></li>
-			<li class="item"><a href="../cursos?r_clave=">Cursos</a></li>
-			<li class="item"><a href="../usuarios">Usuarios</a></li>
-			<li class="item"><a href="#Nosotros">Nosotros</a></li>
-			<li class="item"><a href="#ayuda">Ayuda</a></li>
+			<li class="item"><a href="cursos.php">Cursos</a></li>
+			<li class="item"><a href="usuarios.php">Usuarios</a></li>
+			<li class="item"><a href="nosotros.php">Nosotros</a></li>
+			<li class="item"><a href="../colab/ayuda.php">Ayuda</a></li>
 			<li class="item"><a href="../../php/logout.php">Salir</a></li>
-
 		</ul>
 </header>
 
