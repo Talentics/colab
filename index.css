@@ -5,7 +5,11 @@ body{
 	padding: 0;
 	margin: 0;
 	background-image: url("../img/studentregister.jpg");
+<<<<<<< HEAD
 	color: black;
+=======
+	color: grey;
+>>>>>>> aiuda
 }
 #welcome{
 	position: absolute;
