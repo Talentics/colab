@@ -14,7 +14,7 @@
 			<li class="item"><a href="../alumnos">Alumnos</a></li>
 			<li class="item"><a href="cursos.php">Cursos</a></li>
 			<li class="item"><a href="usuarios.php">Usuarios</a></li>
-			<li class="item"><a href="#Nosotros">Nosotros</a></li>
+			<li class="item"><a href="nosotros.php">Nosotros</a></li>
 			<li class="item"><a href="#Ayuda">Ayuda</a></li>
 			<li class="item"><a href="../../php/logout.php">Salir</a></li>
 
